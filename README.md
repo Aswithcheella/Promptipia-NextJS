@@ -1,3 +1,6 @@
+Live URL: https://promptopia-next-36xch00pm-aswith-kumar-cheellas-projects.vercel.app/
+
+
 <img width="467" alt="image" src="https://github.com/Aswithcheella/Promptipia-NextJS/assets/65016543/064adf56-b230-494a-829e-caff27dac302">
 
 
