@@ -1,3 +1,7 @@
+<img width="467" alt="image" src="https://github.com/Aswithcheella/Promptipia-NextJS/assets/65016543/064adf56-b230-494a-829e-caff27dac302">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
